@@ -1,7 +1,7 @@
 #write your code here
-class Simon says
+def Simon says
 
     def echo(hello)
-        hello
-    end   
+        "should echo hello #{hello}"
+    end     
 end   
